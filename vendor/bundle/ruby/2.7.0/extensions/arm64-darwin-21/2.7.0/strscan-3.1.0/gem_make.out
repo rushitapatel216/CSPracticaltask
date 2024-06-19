@@ -1,0 +1,21 @@
+current directory: /Users/rushita/Documents/new/cstask/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+/Users/rushita/.rvm/rubies/ruby-2.7.6/bin/ruby extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /Users/rushita/Documents/new/cstask/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240617-2547-lshy5n sitelibdir\=./.gem.20240617-2547-lshy5n clean
+
+current directory: /Users/rushita/Documents/new/cstask/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240617-2547-lshy5n sitelibdir\=./.gem.20240617-2547-lshy5n
+compiling strscan.c
+linking shared-object strscan.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/rushita/Documents/new/cstask/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240617-2547-lshy5n sitelibdir\=./.gem.20240617-2547-lshy5n install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 strscan.bundle ./.gem.20240617-2547-lshy5n
+
+current directory: /Users/rushita/Documents/new/cstask/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240617-2547-lshy5n sitelibdir\=./.gem.20240617-2547-lshy5n clean

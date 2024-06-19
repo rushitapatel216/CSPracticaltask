@@ -1,0 +1,16 @@
+current directory: /Users/rushita/Documents/new/cstask/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+/Users/rushita/.rvm/rubies/ruby-2.7.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/rushita/Documents/new/cstask/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240617-2547-1kq0c4d sitelibdir\=./.gem.20240617-2547-1kq0c4d clean
+
+current directory: /Users/rushita/Documents/new/cstask/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240617-2547-1kq0c4d sitelibdir\=./.gem.20240617-2547-1kq0c4d
+make: Nothing to be done for `all'.
+
+current directory: /Users/rushita/Documents/new/cstask/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240617-2547-1kq0c4d sitelibdir\=./.gem.20240617-2547-1kq0c4d install
+
+current directory: /Users/rushita/Documents/new/cstask/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240617-2547-1kq0c4d sitelibdir\=./.gem.20240617-2547-1kq0c4d clean
